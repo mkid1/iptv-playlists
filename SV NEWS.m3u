@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="251" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="News Sweden",SVT1
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+#EXTINF:-1 tvg-id="SVT2.se" tvg-logo="https://i.imgur.com/pGWvCxp.png" group-title="News Sweden",SVT2
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+#EXTINF:-1 tvg-id="DiTV.se" tvg-logo="https://i.imgur.com/zApTDWn.png" group-title="Business",DITVHD
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/ai0BIci.png" group-title="News Sweden",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
